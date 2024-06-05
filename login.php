@@ -1,4 +1,5 @@
 <?php
+
 session_start();
 
 $servername = "localhost";
@@ -7,6 +8,7 @@ $password = "";
 $db_name = "portofolio";
 
 $conn = new mysqli($servername, $username, $password, $db_name);
+
 
 // Check connection
 if ($conn->connect_error) {
