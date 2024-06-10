@@ -14,15 +14,7 @@
 </head>
 <body class="body">
 
-    <nav class="navbar">
-        <ul>
-            <li><a href="">inv</a></li>
-            <li><a href="login.php">login</a></li>
-            <li><a href="">view</a></li>
-            <li><a href="welkom.php">search</a></li>
-            <li><a href="aboutme.php">About Me</a></li>
-        </ul>
-    </nav>
+   
     
     <h1>About Me</h1>
     <p>

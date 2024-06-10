@@ -28,6 +28,23 @@
     <div class="image-container">
         <img class="fotogezicht" src="foto gezicht/foto firre gezicht.jpg" alt="">
     </div>
+    <style>
+    .body{
+            background-image: url(img/aboutme.png);
+            background-repeat: no-repeat;
+            background-size: cover;
+            z-index: 9999;
+        }
+ </style>
+</head>
+<body class="body">
+
+   
+    
+    <h1>About Me</h1>
+    <p>
+       
+    </p>
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
 </body>
