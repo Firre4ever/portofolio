@@ -79,14 +79,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     </style>
 </head>
 <body class="body">
-    <nav class="navbar">
-        <ul>
-            <li><a href="select_pokemon.php">inv</a></li>
-            <li><a href="login.php">login</a></li>
-            <li><a href="view_pokemons.php">view</a></li>
-            <li><a href="welkom.php">search</a></li>
-        </ul>
-    </nav>
     
     <div id="login">
         <form class="loginform" action="" method="post">
@@ -103,7 +95,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             <input type="password" id="password" name="password" required>
 
             <input type="submit" value="Login">
-            <button type="button" onclick="window.location.href='register.php'">Register</button>
+            <button  onclick="window.location.href='register.php'" class="btn btn-primary">Register</button>
         </form>
     </div>
 </body>

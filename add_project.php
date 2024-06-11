@@ -1,3 +1,4 @@
+<a href="index.php" class="btn btn-primary">Home</a>
 <?php
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     $name = $_POST['name'];

@@ -25,9 +25,15 @@
     <style>
 
     </style>
+    <div class="content-container">
     <div class="image-container">
         <img class="fotogezicht" src="foto gezicht/foto firre gezicht.jpg" alt="">
     </div>
+    <h1 class="aboutme">About Me</h1>
+    <p> Hallo ik ben Firre ben 18 jaar oud ik doe de opleiding ict software developer op het mbo vista college Maastricht <br>
+        ik zit in het 1e jaar en ik vind het leuk om te programmeren en websites te maken.
+    </p>
+</div>
     <style>
     .body{
             background-image: url(img/aboutme.png);
@@ -37,14 +43,6 @@
         }
  </style>
 </head>
-<body class="body">
-
-   
-    
-    <h1>About Me</h1>
-    <p>
-       
-    </p>
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
 </body>

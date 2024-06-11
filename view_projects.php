@@ -6,6 +6,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+<a href="index.php" class="btn btn-primary">Home</a>
     <div class="container">
         <h1>All Projects</h1>
         <a href="add_project.php" class="btn">Add New Project</a>
